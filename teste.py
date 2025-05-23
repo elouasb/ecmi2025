@@ -5,5 +5,5 @@ st.write("""
 # By melhor garota de programa no mundo
 APP ELOUASB
 *PRIMEIRO SITE APP*
-st.text(body, *, help=None)
-""")
+***)
+st.text("This is text\n[and more text](that's not a Markdown link).")
