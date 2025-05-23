@@ -4,5 +4,5 @@ import pandas as pd
 st.write("""
 # By melhor garota de programa no mundo
 APP ELOUASB
-PRIMEIRO SITE APP*
+*PRIMEIRO SITE APP*
 """)
