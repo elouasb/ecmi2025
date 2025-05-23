@@ -6,3 +6,4 @@ st.write("""
 APP ELOUASB
 *PRIMEIRO SITE APP*
 """)
+st.text(body, *, help=None)
