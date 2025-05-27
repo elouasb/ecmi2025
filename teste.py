@@ -6,4 +6,4 @@ st.write("""
 APP ELOUASB
 *PRIMEIRO SITE APP*
 """)
-st.image("D:\user\C3010789\Downloads\Image.jpg")
+st.image("file:///D:/user/C3010789/Downloads/Image.jpg")
