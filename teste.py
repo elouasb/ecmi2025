@@ -6,4 +6,4 @@ st.write("""
 APP ELOUASB
 *PRIMEIRO SITE APP*
 """)
-st.image("image")
+st.image("image.jpg")
